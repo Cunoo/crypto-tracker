@@ -45,11 +45,11 @@ cd ../server
 ## 2. run project
 
 # Backend
-cd server
-mvn spring-boot:run
+- cd server
+- mvn spring-boot:run
 
 # Frontend
-cd client
-npm start
+- cd client
+- npm start
 
 <img width="2521" height="1213" alt="Screenshot 2026-06-10 at 18 31 55" src="https://github.com/user-attachments/assets/8e489396-2e82-464b-a6e0-89897d4babb5" />
