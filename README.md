@@ -34,19 +34,21 @@ Real-time cryptocurrency price tracking application with React frontend and Spri
 
 ### 1. Install dependencies
 
-```bash
+bash
 # Client
 cd client
 npm install
 
-# Server (Maven dependencies - automatic)
+### Server (Maven dependencies - automatic)
 cd ../server
 
-###Backend
+## 2. run project
+
+#Backend
 cd server
 mvn spring-boot:run
 
-###Frontend
+#Frontend
 cd client
 npm start
 
